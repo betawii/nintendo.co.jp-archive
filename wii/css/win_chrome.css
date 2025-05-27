@@ -1,0 +1,26 @@
+/*  win_chrome.css  */
+/*  Windows Chrome用のスタイル  */
+
+body {
+	color: #333333;
+	}
+
+body, td, th {
+	font-size: small;
+	line-height: 1.3;
+	}	
+
+.tx16 {
+	font-size: medium;
+	line-height: 1.2;
+	}
+	
+.tx12 {
+	font-size: small;
+	line-height: 1.3;
+	}
+
+.tx10 {
+	font-size: x-small;
+	line-height: 1.2;
+	}
